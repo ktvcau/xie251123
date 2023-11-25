@@ -5,7 +5,7 @@ const config = {
     usage: "setall",
     cooldown: 1,
     permissions: [2],
-    credits: "",
+    credits: "XIE",
     extra: {}
 }
 
